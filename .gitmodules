@@ -3,4 +3,4 @@
 	url = https://github.com/EmanuelCN/KernelSU
 [submodule "drivers/net/wireless/realtek/rtl8188eus"]
 	path = drivers/net/wireless/realtek/rtl8188eus
-	url = https://github.com/gglluukk/rtl8188eus
+	url = https://github.com/Migu-Kernel/rtl8188_419
